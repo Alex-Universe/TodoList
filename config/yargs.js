@@ -7,11 +7,9 @@ const description = {
 }
 
 const completed = {
-
     demand: true,
     alias: 'c',
     default: true
-
 }
 
 const argv = require('yargs')
